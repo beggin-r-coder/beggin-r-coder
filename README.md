@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beggin-r-coder&label=Profile%20views&color=0e75b6&style=flat" alt="beggin-r-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beggin-r-coder" alt="beggin-r-coder" /></a> </p>
+# 🏆 GitHub Achievements
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=beggin-r-coder&theme=onedark&row=1&column=6">
+</p>
 - 🔭 I’m currently working on **Building a Coding Platform**
 
 - 🌱 I’m currently learning **Java, SpringBoot, DevOps**
