@@ -6,7 +6,7 @@
 # 🏆 GitHub Trophies
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beggin-r-coder" alt="beggin-r-coder" /></a> </p>
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Building a Coding Platform**
 
