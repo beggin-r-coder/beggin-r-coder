@@ -42,7 +42,7 @@
 <a href="https://github.com/beggin-r-coder">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="[https://linkedin.com](https://www.linkedin.com/in/anishka-das)">
+<a href="https://www.linkedin.com/in/anishka-das">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
