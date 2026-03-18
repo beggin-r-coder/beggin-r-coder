@@ -1,26 +1,124 @@
-<h1 align="center">Hi 👋, I'm Anishka Das</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0f2027&height=220&section=header&text=Anishka%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beggin-r-coder&label=Profile%20views&color=0e75b6&style=flat" alt="beggin-r-coder" /> </p>
+<h1 align="center">Hi 👋, I'm Anishka Das</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Backend+Projects;Learning+System+Design+and+DevOps&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=beggin-r-coder&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🔭 Currently building **a Coding Platform**
+- 🌱 Learning **Spring Boot, System Design, DevOps**
+- 💬 Ask me about **Java, Spring Boot, Backend Development**
+- 📫 Reach me at **dasanishka157@gmail.com**
+- ⚡ Passionate about **Backend Engineering**
+
+---
 
 # 🏆 GitHub Trophies
 
-
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 🔭 I’m currently working on **Building a Coding Platform**
-
-- 🌱 I’m currently learning **Java, SpringBoot, DevOps**
-
-- 📫 How to reach me **dasanishka157@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=beggin-r-coder&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beggin-r-coder&show_icons=true&locale=en&layout=compact" alt="beggin-r-coder" /></p>
+# 🤝 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beggin-r-coder&show_icons=true&locale=en" alt="beggin-r-coder" /></p>
+<p align="center">
+<a href="mailto:dasanishka157@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://github.com/beggin-r-coder">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,eclipse,docker,linux,html,css"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=beggin-r-coder&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beggin-r-coder&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beggin-r-coder&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beggin-r-coder&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎯 Backend Developer Roadmap
+
+Currently focusing on mastering:
+
+✔ Java  
+✔ Spring Boot  
+✔ Spring MVC  
+✔ REST APIs  
+✔ JPA & Hibernate  
+✔ MySQL  
+✔ Microservices  
+✔ System Design  
+✔ Docker & DevOps  
+
+---
+
+# 💡 Developer Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0f2027&height=120&section=footer"/>
+</p>
